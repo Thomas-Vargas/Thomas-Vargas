@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Thomas Vargas</h1>
 <h3 align="center">Front-end developer with a passion for solving complex problems with creativity and innovation.</h3>
 
-- I’m currently working on **My Prime personal project**
-
 - 👨‍💻 All of my projects are available at [https://thomasavargas.com/](https://thomasavargas.com/)
 
 - 📫 How to reach me **thomasvargas202@gmail.com**
