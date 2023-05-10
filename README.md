@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://thomasavargas.com/](https://thomasavargas.com/)
 
-- 📫 How to reach me **thomasvargas202@gmail.com**
+- 📫 You can reach me at: **thomasvargas202@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
