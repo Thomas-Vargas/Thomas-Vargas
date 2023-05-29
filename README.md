@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Thomas Vargas</h1>
+<h1 align="center">Thomas Vargas</h1>
 <h3 align="center">Full-Stack Engineer with a passion for solving complex problems with creativity and innovation.</h3>
 
 - 👨‍💻 All of my projects are available at [https://thomasavargas.com/](https://thomasavargas.com/)
