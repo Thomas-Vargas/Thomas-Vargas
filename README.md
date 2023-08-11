@@ -1,9 +1,9 @@
 <h1 align="center">Thomas Vargas</h1>
-<h3 align="center">Full-Stack Engineer with a passion for solving complex problems with creativity and innovation.</h3>
+<h3 align="center">Full Stack Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://thomasavargas.com/](https://thomasavargas.com/)
+- All of my projects are available at [https://thomasavargas.com/](https://thomasavargas.com/)
 
-- 📫 You can reach me at: **thomasvargas202@gmail.com**
+- You can reach me at: **thomasvargas202@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
